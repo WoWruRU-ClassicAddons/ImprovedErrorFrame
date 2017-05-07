@@ -4,6 +4,7 @@
 	<Script file="localization.lua"/>
 
 	<!-- Secondary Localizations -->
+	<Script file="localization.ru.lua"/>
 	<Script file="localization.cn.lua"/>
 	<Script file="localization.de.lua"/>
 	<Script file="localization.fr.lua"/>
